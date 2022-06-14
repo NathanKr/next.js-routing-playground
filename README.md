@@ -9,6 +9,8 @@ This is relevant when you want to navigate to e.g. detailed product but you dont
 
 <h4>directory structure</h4>
 
+<p>notice that index.tsx inside products directory implement Products.tsx (the name of Products.tsx is arbitrary)</p>
+
 ![tree structure](./figs/tree_structure.png)
 
 <h4>access details</h4>
